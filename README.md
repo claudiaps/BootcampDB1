@@ -20,3 +20,10 @@
 
 - Convential commits
 - Branchs
+
+## Terceira Aula
+
+- Aprendendo sobre conflitos
+  - Resolução com rebase e merge
+- Aprendendo sobre git log
+- Aprendendo sobre cherry pick
